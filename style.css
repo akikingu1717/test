@@ -6,3 +6,11 @@ html{
 .header{
     background-color:lightgray;
 }
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+
+
+}
